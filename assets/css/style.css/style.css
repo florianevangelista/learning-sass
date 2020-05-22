@@ -1,0 +1,15 @@
+.test {
+  background: gray;
+  width: 50%;
+  margin: 0 auto; }
+  .test h1 {
+    text-align: center;
+    color: blue;
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: bold; }
+  .test p {
+    text-align: justify;
+    color: red;
+    font-family: arial;
+    font-size: 30px; }

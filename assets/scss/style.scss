@@ -1,0 +1,23 @@
+.test {
+    background: gray;
+    width: 50%;
+    margin: 0 auto;
+    h1 {
+      text-align: center;
+      color: blue;
+      font: {
+            family: sans-serif;
+            size: 40px;
+            weight: bold;
+        }
+    }
+
+    p {
+        text-align: justify;
+        color: red;
+        font: {
+            family: arial;
+            size: 30px;
+          }
+    }
+  }

@@ -1,0 +1,22 @@
+{
+  "name": "learning-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch assets/scss/style.scss -o assets/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florianevangelista/learning-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florianevangelista/learning-sass/issues"
+  },
+  "homepage": "https://github.com/florianevangelista/learning-sass#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
